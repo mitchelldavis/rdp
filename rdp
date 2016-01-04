@@ -1,0 +1,4 @@
+#!/bin/bash
+
+open rdp://full%20address=s:$1\&use%20multimon=i:0
+
